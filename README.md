@@ -4,17 +4,5 @@
 제안, 질문은 언제든지 부탁드려요!\
 [트위터](https://twitter.com/0xcd080xbb34)나 이슈로 남겨주시면 됩니다!
 
-## brute-force
-완전 탐색법 브루트 포스 알고리즘
-
-## dfs-bfs
-깊이 우선 탐색법, 너비 우선 탐색법 알고리즘
-
-## greedy
-탐욕법, 그리디 알고리즘
-
-## heap
-힙, 완전이진트리 자료구조
-
-## queue
-큐, 선출선입 자료구조
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2chanhaeng)](https://solved.ac/2chanhaeng)
