@@ -1,0 +1,13 @@
+Package            Version
+------------------ ---------
+beautifulsoup4     4.12.2
+bs4                0.0.1
+bwj                0.0.5
+certifi            2023.7.22
+charset-normalizer 3.3.0
+idna               3.4
+pip                23.2.1
+requests           2.31.0
+setuptools         63.2.0
+soupsieve          2.5
+urllib3            2.0.6
